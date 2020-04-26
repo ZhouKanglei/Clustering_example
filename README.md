@@ -20,4 +20,5 @@
 
 <center>
 ![稷殿下](https://zhoukanglei.github.io/asserts/images/jidianxia_flash.gif  "稷殿下")
+<img src="https://zhoukanglei.github.io/asserts/images/jidianxia_flash.gif">
 </center>
