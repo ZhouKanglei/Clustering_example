@@ -19,7 +19,7 @@ def loadData():
 	plt.rcParams['font.sans-serif'] = ['Times New Roman']
 	plt.rcParams['font.size'] = 14
 
-	data = xlrd.open_workbook(r'data.xlsx')
+	data = xlrd.open_workbook(r'data/data.xlsx')
 	table = data.sheet_by_name('data_en') 
 
 
